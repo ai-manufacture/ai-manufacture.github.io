@@ -1,0 +1,1 @@
+var e=`<div class="r n-rec" data-animationappear="off" data-record-type="635" id="rec1114922831" style=" ">  <div class="b635__textholder" data-backspacing-delay="700" data-recid="15900057,901360087" data-speed="40" data-text1="Работаем с любыми объемами" data-text2="Выгодные цены — от 250₽ за короб" data-text3="Доставляем от 1 дня"></div>  </div>`;export{e as default};

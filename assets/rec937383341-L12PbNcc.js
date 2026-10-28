@@ -1,0 +1,1 @@
+var e=`<div class="r n-rec" data-record-type="215" id="rec937383341" style=" "> <a name="contacts" style="font-size:0;"></a> </div>`;export{e as default};

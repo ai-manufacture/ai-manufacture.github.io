@@ -1,0 +1,1 @@
+var e=`<div class="r n-rec" data-animationappear="off" data-record-type="131" id="rec778756844" style=" ">  <div class="b123"> <div class="n-container_100"> <div class="n-width n-width_100">     </div> </div> </div> </div>`;export{e as default};

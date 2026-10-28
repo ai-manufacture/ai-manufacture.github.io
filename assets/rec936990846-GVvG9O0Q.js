@@ -1,0 +1,1 @@
+var e=`<div class="r n-rec" data-animationappear="off" data-record-type="131" id="rec936990846" style=" ">  <div class="b123"> <div class="n-container_100"> <div class="n-width n-width_100">   <style class="anx-015-fix"> body { opacity: 0 !important; pointer-events: none !important; } </style>   </div> </div> </div> </div>`;export{e as default};

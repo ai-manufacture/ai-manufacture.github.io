@@ -1,0 +1,1 @@
+var e=`<div class="r n-rec" data-animationappear="off" data-record-type="367" id="rec2455166641" style=" ">  <div class="b367"> <a class="b367__opener" data-cookie-name="mytimercookie" data-cookie-time="1" data-trigger-time="5" href="#popup:infoblock"></a> </div>  </div>`;export{e as default};
