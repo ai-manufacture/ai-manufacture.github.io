@@ -1,1 +1,0 @@
-var e=`<div class="r n-rec" data-record-type="270" id="rec907369891" style=" "> <div class="b270"></div>  </div>`;export{e as default};
